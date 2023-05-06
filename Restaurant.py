@@ -14,7 +14,8 @@ class Restaurant():
         # testint customers
         self.customers.add_customer('John Chan', '1', '12/12/2000', '1', "Hong Kong")
         self.customers.add_customer('Tom Leung', '2', '11/11/2001', '2', "")
-        print(self.customers)
+        
+        # print(self.customers)
         self.start()
 
         
