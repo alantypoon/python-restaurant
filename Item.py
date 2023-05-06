@@ -1,5 +1,3 @@
-from copy import copy, deepcopy
-
 class Item:
     
     def __init__(self, id, name, price):
